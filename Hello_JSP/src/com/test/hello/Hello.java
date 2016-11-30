@@ -7,6 +7,9 @@ public class Hello {
 		//012456:hofix edit by Kim
 		System.out.println("hotfix edit/modify");
 		//012456:end
+		
+		//0215238:origin/master edit by kim
+		System.out.println("GitHub edit");
 	}
 
 }
