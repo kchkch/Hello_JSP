@@ -10,6 +10,11 @@ public class Hello {
 		
 		//0215238:origin/master edit by kim
 		System.out.println("GitHub edit");
+		
+		//0412518:origin/master eidit by kim
+		System.out.println("GitHub edit 4567");
+		
+		//0412518 end
 	}
 
 }
